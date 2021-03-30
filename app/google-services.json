@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350483977956",
+    "project_id": "loginsystem-fbdc8",
+    "storage_bucket": "loginsystem-fbdc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350483977956:android:0ff72982f997c920477ef1",
+        "android_client_info": {
+          "package_name": "com.randa.loginsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350483977956-uelqomesi9jire22nk4d3gnrkbhpdiu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpOAOG4PYjKEa5UNjHMApuXpoa9rI2JtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350483977956-uelqomesi9jire22nk4d3gnrkbhpdiu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
